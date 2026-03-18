@@ -1,0 +1,15 @@
+# --- 机器人核心框架 ---
+nonebot2
+nonebot-adapter-onebot
+
+# --- 网络与异步请求 ---
+aiohttp
+
+# --- 数据库与存储 ---
+aiomysql
+chromadb
+
+# --- 文本处理与配置 ---
+jieba
+PyYAML
+python-dotenv
