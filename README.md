@@ -29,3 +29,4 @@
 * 然后就可以用自己账号和ai聊天啦！
 
 ## 运行效果
+<img src="https://github.com/user-attachments/assets/a3bf5062-1b1c-462f-bb0e-295aff44bbc5" width="400">
