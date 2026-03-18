@@ -1,5 +1,5 @@
 # QQ-Bot-ELma
-基于 NoneBot2 与 NapCat 开发的 QQ 机器人。接入豆包大模型，具备 MySQL+ChromaDB 双轨记忆系统、动态人物画像提取及多模态视觉能力。少女艾尔玛！
+基于 NoneBot2 与 NapCat 开发的 QQ 机器人。接入豆包大模型，具备 MySQL+ChromaDB 双轨记忆系统、动态人物画像提取及多模态视觉能力，还会发表情包的少女艾尔玛！
 
 ## 基于RAG和NAPCAT的聊天机器人  
 本项目基于NapCat开源项目来作为基础的框架进行制作的聊天，通过调用NapCat开源项目的，所以部署该项目时务必安装NapCat开源项目。本项目基于
